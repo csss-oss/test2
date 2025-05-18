@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("bangguking good hi,hello,hi bro\n");
+	printf("Hello from LimChanHyuk!\n");
 	return 0;
 }
 
