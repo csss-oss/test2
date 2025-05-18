@@ -2,7 +2,8 @@
 
 int main(void)
 {
-	printf("Hello from LimChanHyuk!\n");
+	printf("찬혁이 1번째줄 나 2번째줄 웅이 3번째줄 대훈이형 4번째줄에 작성\n");
+	printf("안녕하세요 형님들 임찬혁  인사올리겠습니다. 잘부탁드립니다!!!");
 	return 0;
 }
 
