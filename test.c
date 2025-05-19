@@ -8,6 +8,7 @@ int main(void)
 	printf("치킨너겟에다가 집 반찬\n");
 	printf("형 저 닭볶음탕 언제 해주세요??\n");
 	printf("집에 가서 출장요리사 해드림 자취방 초대 ㄱ\n");
+	printf("형 프로젝트도 4명이서 깃쓰면서 하시죠?\n");
 	return 0;
 }
 
