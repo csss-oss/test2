@@ -6,6 +6,7 @@ int main(void)
 	pritnf("나는 점심 도시락이지 ㅎㅎ\n");
 	printf("도시락 뭐싸오셨어요??\n");
 	printf("치킨너겟에다가 집 반찬\n");
+	printf("형 저 닭볶음탕 언제 해주세요??\n");
 	return 0;
 }
 
